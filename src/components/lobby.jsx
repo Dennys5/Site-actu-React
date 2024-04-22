@@ -12,6 +12,7 @@ function Loby() {
         </div>
         <div className='folie'>
         <h1>Accueil</h1>
+        <h2>Restez au courant ! <br /> Cliquez sur 'News' pour avoir les infos sur le BitCoins.</h2>
         </div>
         <div className='foot'>
         <footer>
